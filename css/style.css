@@ -1,72 +1,86 @@
+@import url(http://fonts.googleapis.com/css?family=PT+Sans:400,700|PT+Sans+Narrow:400,700|PT+Serif:400,700);
+
 body {
-  font-family:"proxima-nova", helvetica, sans-serif;
-  font-size:80%;
-  border-top:solid 5px #b90800;
+  background:#E6E7E9;
+  border-top:solid 5px #1C98D3;
+  color: #31322F;
+  font: 400 14px/18px "PT Serif", georgia, serif;
   margin:0;
 }
 
-a, a:visited { color:#b90800; }
-a:hover { color:#000; }
+a { color:#1C98D3; }
+a:hover, a:visited { color:#31322F; }
 
-div.logo {
-  margin-bottom:40px;
-  padding-bottom:40px;
-  border-bottom:solid 1px #e8e8e8;
+p {
+  text-align: justify;
+  text-indent: 14px;
 }
 
-div.logo h1 {
-  font-size:6.5em;
+h1, h2, h3, h4, h5, h6 {
+  color:#49494D;
+  font-family: "PT Sans Narrow", helvetica, sans-serif;
+  font-weight: 700;
+  margin: 0;
+  text-shadow: 0 1px 0 #fff;
   text-transform:uppercase;
-  font-weight:900;
-  margin-bottom:0;
 }
 
-div.logo h1 span.red { color:#b90800; }
+span.color { color:#1C98D3; }
 
-div.logo h1 img {
-  float:left;
-  margin-right:20px;
+header {
+  border-bottom: solid 1px #49494D;
+  margin: 40px auto;
+  padding-bottom: 40px;
+  text-align: center;
+  width: 360px;
 }
 
-div.logo h2 {
-  margin-top:-15px;
-  font-weight:300;
+header h1 {
+  font-size: 48px;
+  line-height: 48px;
 }
 
-p { line-height:1.8em; }
-
-div.post { margin-bottom:80px; }
-
-h1.title {
-  font-weight:900;
-  text-transform:uppercase;
-  margin-bottom:-10px;
+header h1 a {
+  text-decoration: none;
 }
 
-h1.title a, a:visited {
-  color:#000;
+header p.caption {
+  font: 700 14px/18px "PT Sans", helvetica, sans-serif;
+  margin: 0;
+}
+
+article {
+  border-bottom: solid 1px #49494D;
+  padding-bottom: 40px;
+  margin: 0 auto 40px;
+  width: 360px;
+}
+
+article h1 {
+  font-size: 24px;
+  line-height: 24px;
+}
+
+article h1 a, article h1 a:visited {
+  color: #31322F;
   text-decoration:none;
 }
-
-h3 {
-  text-transform:uppercase;
-  font-weight:900;
-  margin-bottom:5px;
-}
-
-div.detail { margin-bottom:5px; }
 
 a.register {
-  margin-top:5px;
-  display:block;
-  width:245px;
-  font-weight:700;
-  text-transform:uppercase;
-  color:#fff;
-  background:#b90800;
-  padding:5px 0 3px 5px;
+  background:#1C98D3;
   border-radius:3px;
+  color: #E6E7E9;
+  display: block;
+  font-family: 'PT Sans', helvetica, san-serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 18px;
+  margin-top: 40px;
+  padding:5px 0 3px 5px;
+  text-align: center;
   text-decoration:none;
+  text-shadow: 0 -1px 0 #31322F;
+  text-transform:uppercase;
 }
 
-a.register:hover { background:#000; }
+a.register:hover { background:#31322F; }

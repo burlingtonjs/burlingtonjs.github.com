@@ -2,16 +2,13 @@
 layout: main
 ---
 
-<div class="row">
-  <div class="eight columns">
-    <h1 class="title"><a href="{{ page.url }}">{{ page.title }}</a></h1>
-    {{ content }}
-  </div>
-  <div class="four columns">
-    <h3>Details</h3>
-    <div class="detail">{{ page.location }}</div>
-    <div class="detail">{{ page.address }}</div>
-    <div class="detail">{{ page.time }}</div>
-    <a href="{{ page.registration }}" target="_blank" class="register">Register</a>
-  </div>
+<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+<div class='vcard event-location'>
+  <address class='adr'>
+    <div class="street-address">{{ page.address }}</div>
+    <span class="locality">{{ page.locality }}</span>, <abbr class='region'>{{ page.region }}</abbr>
+  </address>
+  <time>{{ page.time }}</time>
 </div>
+{{ content }}
+<!-- a href="{{ page.registration }}" target="_blank" class="register">Register</a -->

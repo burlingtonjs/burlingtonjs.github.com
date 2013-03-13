@@ -2,18 +2,15 @@
 layout: main
 ---
 
-{% for post in site.posts %}
-  <div class="row post">
-    <div class="eight columns">
-      <h1 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
-      {{ post.content }}
-    </div>
-    <div class="four columns">
-      <h3>Details</h3>
-      <div class="detail">{{ post.location }}</div>
-      <div class="detail">{{ post.address }}</div>
-      <div class="detail">{{ post.time }}</div>
-      <a href="{{ post.registration }}" target="_blank" class="register">Register</a>
-    </div>
+{% for page in site.posts %}
+  <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+  <div class='vcard event-location'>
+    <address class='adr'>
+      <div class="street-address">{{ page.address }}</div>
+      <span class="locality">{{ page.locality }}</span>, <abbr class='region'>{{ page.region }}</abbr>
+    </address>
+    <time>{{ page.time }}</time>
   </div>
+  {{ page.content }}
+  <!-- a href="{{ page.registration }}" target="_blank" class="register">Register</a -->
 {% endfor %}
