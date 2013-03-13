@@ -1,0 +1,12 @@
+---
+layout: post
+title: JavaScript Launch
+location: TBD
+address: TBD
+time: April 10, 2013 6:30 PM
+registration: http://guestli.st/151185
+---
+
+Join us for our first meeting!
+
+If you have an idea for a talk you'd like to give, please contact <events@burlingtonjs.org>.
