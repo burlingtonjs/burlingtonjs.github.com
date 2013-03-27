@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JavaScript Launch
+title: Burlington JavaScript Inaugural Meeting
 address: TBD
 locality: Burlington
 region: VT
@@ -8,6 +8,17 @@ time: April 10, 2013 6:30 PM
 registration: http://guestli.st/151185
 ---
 
-JavaScript is awesome. It might not be the most elegant language, but it's definitely time Burlington had a forum for gathering and pontificating on the wonders of our prototypal friend. If you want to learn more about it, join us for our first meeting!
+---
 
-If you'd like to get on your soapbox and say what you think makes JavaScript so great (or not great), holler at <events@burlingtonjs.org>.
+## Pete Brown on Ember.js
+![Pete Brown](/images/speakers/pete_brown.jpg)
+Pete will give an introduction to the [Ember.js](http://emberjs.com/) framework that recently reach 1.0.
+
+Find Pete on Twitter: [@beerlington](http://twitter.com/beerlington)
+
+---
+## Ian Metcalf on Paper.js
+![Ian Metcalf](/images/speakers/ian_metcalf.jpg)
+Ian will talk [Paper.js](http://paperjs.org/about/) an "open source vector graphics scripting framework that runs on top of the HTML5 Canvas."
+
+Find Ian on GitHub: [/ianmetcalf](https://github.com/ianmetcalf)

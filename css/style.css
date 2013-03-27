@@ -11,9 +11,15 @@ body {
 a { color:#1C98D3; }
 a:hover, a:visited { color:#31322F; }
 
+hr {
+  border-top-color: #999;
+  border-style: solid none none;
+  border-width: 1px;
+  margin: 20px 0;
+}
+
 p {
   text-align: justify;
-  text-indent: 14px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -31,7 +37,6 @@ header {
   border-bottom: solid 1px #49494D;
   margin: 40px auto;
   padding-bottom: 40px;
-  text-align: center;
   width: 360px;
 }
 
@@ -51,8 +56,9 @@ header p.caption {
 
 article {
   border-bottom: solid 1px #49494D;
-  padding-bottom: 40px;
   margin: 0 auto 40px;
+  padding-bottom: 40px;
+  position: relative;
   width: 360px;
 }
 
@@ -64,6 +70,22 @@ article h1 {
 article h1 a, article h1 a:visited {
   color: #31322F;
   text-decoration:none;
+}
+
+article h2 {
+  font-size: 18px;
+  line-height: 18px;
+}
+
+article img {
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  left: -125px;
+  margin-top: -25px;
+  max-height: 100px;
+  max-width: 100px;
+  position: absolute;
 }
 
 a.register {
