@@ -10,11 +10,11 @@ registration: http://guestli.st/151185
 
 ---
 
-## Pete Brown on Ember.js
+## Ember.js - The Best JS Framework Ever!?!?
 ![Pete Brown](/images/speakers/pete_brown.jpg)
-Pete will give an introduction to the [Ember.js](http://emberjs.com/) framework that recently reach 1.0.
+In this talk [Peter Brown](http://beerlington.com) will discuss the philosophy of convention over configuration and how Ember.js capitalizes on this concept. He will talk about the reasons why people tend to be turned off by too much “magic” and why having a steeper learning curve is actually a good thing. He will also show working code examples demonstrating the power of Ember.js. That, and pictures of cats.
 
-Find Pete on Twitter: [@beerlington](http://twitter.com/beerlington)
+Peter is an experienced Ruby and Rails developer with a strong passion for software craftsmanship. His professional development experience includes building, maintaining, and leading a variety of enterprise-level Ruby on Rails web applications for fast-growth start-ups. He co-founded both the Burlington Web Application Group and the Burlington Ruby Group, and co-organizes the annual Burlington Ruby Conference.
 
 ---
 ## Ian Metcalf on Paper.js
