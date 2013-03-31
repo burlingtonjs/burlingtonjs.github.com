@@ -5,7 +5,7 @@ address: Office Squared, 77 College St.
 locality: Burlington
 region: VT
 time: April 10, 2013 6:30 PM
-registration: http://guestli.st/151185
+registration: http://guestli.st/157422
 ---
 
 ---
