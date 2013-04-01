@@ -21,6 +21,6 @@ Find Peter on [Twitter](https://twitter.com/beerlington) and [GitHub](https://gi
 ---
 ## Ian Metcalf on Paper.js
 ![Ian Metcalf](/images/speakers/ian_metcalf.jpg)
-Ian will talk [Paper.js](http://paperjs.org/about/) an "open source vector graphics scripting framework that runs on top of the HTML5 Canvas."
+Ian will talk about how to build a presentation application using [Paper.js](http://paperjs.org/about/) and [Backbone.js](http://backbonejs.org/).
 
 Find Ian on [GitHub](https://github.com/ianmetcalf)
