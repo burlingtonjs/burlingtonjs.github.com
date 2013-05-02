@@ -2,16 +2,27 @@
 layout: main
 ---
 
-{% for page in site.posts %}
-  <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
-  <div class='vcard event-location'>
-    <address class='adr'>
-      <div class="street-address">{{ page.address }}</div>
-      <span class="locality">{{ page.locality }}</span>, <abbr class='region'>{{ page.region }}</abbr>
-    </address>
-    <time>{{ page.time }}</time>
-  </div>
-  <a href="{{ page.registration }}" target="_blank" class="register">Register</a>
-  {{ page.content }}
-  <!-- a href="{{ page.registration }}" target="_blank" class="register">Register</a -->
-{% endfor %}
+<article>
+  {% for page in site.posts limit:1 %}
+    <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+    <div class='vcard event-location'>
+      <address class='adr'>
+        <div class="street-address">{{ page.address }}</div>
+        <span class="locality">{{ page.locality }}</span>, <abbr class='region'>{{ page.region }}</abbr>
+      </address>
+      <time>{{ page.time }}</time>
+    </div>
+    {% unless page.registration == false %}
+      <a href="{{ page.registration }}" target="_blank" class="register">Register</a>
+    {% endunless %}
+    {{ page.content }}
+  {% endfor %}
+</article>
+
+<footer>
+  <ol>
+  {% for post in site.posts reversed offset:1 %}
+    <li><a href='{{ post.url }}'>{{ post.title }}</a></li>
+  {% endfor %}
+  </ol>
+</footer>

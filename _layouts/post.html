@@ -2,13 +2,17 @@
 layout: main
 ---
 
-<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
-<div class='vcard event-location'>
-  <address class='adr'>
-    <div class="street-address">{{ page.address }}</div>
-    <span class="locality">{{ page.locality }}</span>, <abbr class='region'>{{ page.region }}</abbr>
-  </address>
-  <time>{{ page.time }}</time>
-</div>
-<a href="{{ page.registration }}" target="_blank" class="register">Register</a>
-{{ content }}
+<article>
+  <h1>{{ page.title }}</h1>
+  <div class='vcard event-location'>
+    <address class='adr'>
+      <div class="street-address">{{ page.address }}</div>
+      <span class="locality">{{ page.locality }}</span>, <abbr class='region'>{{ page.region }}</abbr>
+    </address>
+    <time>{{ page.time }}</time>
+  </div>
+  {% if page.registration != false and page.archived == nil or page.archived == false %}
+    <a href="{{ page.registration }}" target="_blank" class="register">Register</a>
+  {% endif %}
+  {{ content }}
+</article>
