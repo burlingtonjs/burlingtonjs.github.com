@@ -12,6 +12,7 @@ registration: http://guestli.st/157422
 ---
 
 ## Lighting Up With Ember.js
+### [Slides](https://speakerdeck.com/beerlington/lighting-up-with-ember-dot-js) & [Source Code](https://github.com/beerlington/ember-cats)
 ![Pete Brown](/images/speakers/pete_brown.jpg)
 In this talk Peter Brown will discuss the philosophy of convention over configuration and how [Ember.js](http://emberjs.com/) capitalizes on this concept. He will talk about the reasons why people tend to be turned off by too much "magic" and why having a steeper learning curve is actually a good thing. He will also show working code examples demonstrating the power of Ember.js. That, and pictures of cats.
 
@@ -21,6 +22,7 @@ Find Peter on [Twitter](https://twitter.com/beerlington) and [GitHub](https://gi
 
 ---
 ## Ian Metcalf on Paper.js
+### [Source Code](https://github.com/ianmetcalf/underwhelm)
 ![Ian Metcalf](/images/speakers/ian_metcalf.jpg)
 Ian will talk about how to build a presentation application using [Paper.js](http://paperjs.org/about/) and [Backbone.js](http://backbonejs.org/).
 
