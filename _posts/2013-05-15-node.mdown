@@ -25,3 +25,12 @@ Find Jon on [Twitter](https://twitter.com/scrumlord).
 Jeffrey Pierce and David Howell will discuss an exhibit they recently built for the BCA: an interactive music performance system. They will talk about how they constructed the exhibit with JavaScript (Node, Canvas, Websockets, Arduinos, and more!) with a focus on the Web Audio API.
 
 Find David on [Twitter](https://twitter.com/dehowell).
+
+---
+## Thank you, May sponsors!
+
+- [Mindflash](http://mindflash.com): Online Training Made Easy
+  - Upload your existing training files
+  - Engage trainees through quizzes, surveys, and email
+  - Track trainee progress through analytics and reporting
+- The [University of Vermont](http://uvm.edu) combines faculty-student relationships most commonly found in a small liberal arts college with the resources of a major research institution.
