@@ -1,7 +1,7 @@
 ---
 layout: post
 title: node.js in use
-address: UVM (TBD)
+address: <a href='http://goo.gl/maps/pEC5p'>UVM Kalkin Bldg 004</a>
 locality: Burlington
 region: VT
 time: May 15, 2013 6:30 PM
