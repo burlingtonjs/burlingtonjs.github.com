@@ -21,6 +21,7 @@ Find Jon on [Twitter](https://twitter.com/scrumlord).
 
 ---
 ## An interactive music performance
+### [Source Code](https://github.com/pixel-to-noise/in.c)
 ![David Howell](/images/speakers/david_howell.jpg)
 Jeffrey Pierce and David Howell will discuss an exhibit they recently built for the BCA: an interactive music performance system. They will talk about how they constructed the exhibit with JavaScript (Node, Canvas, Websockets, Arduinos, and more!) with a focus on the Web Audio API.
 
