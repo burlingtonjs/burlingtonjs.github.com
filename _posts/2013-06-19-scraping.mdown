@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Web Scraping
+title: Web Scraping & Functional JS
 address: <a href='http://goo.gl/maps/ySeqT'>Dealer.com KB Theater</a>
 locality: Burlington
 region: VT
@@ -16,6 +16,14 @@ registration: http://guestli.st/169212
 A discussion on scraping the web with javascript. We will look at some of the tools available as well as examples for fun and profit.
 
 Find Garrett on [Twitter](https://twitter.com/g0urd).
+
+---
+
+## Functional Programming in JS
+![Rob Friesel](/images/speakers/rob_friesel.jpg)
+A high-level discussion of the functional programming style and how to apply it in your JavaScript code using Underscore.
+
+Read Rob's blog [found drama](http://blog.founddrama.net), and find him on [Twitter](https://twitter.com/founddrama) and [GitHub](https://github.com/founddrama).
 
 ---
 ## Thank you, June sponsors!
