@@ -6,7 +6,7 @@ locality: Burlington
 region: VT
 time: June 19, 2013 6:30 PM
 archived: false
-registration: false
+registration: http://guestli.st/169212
 ---
 
 ---
