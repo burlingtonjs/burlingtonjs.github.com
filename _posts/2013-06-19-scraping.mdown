@@ -1,0 +1,23 @@
+---
+layout: post
+title: Web Scraping
+address: <a href='http://goo.gl/maps/ySeqT'>Dealer.com KB Theater</a>
+locality: Burlington
+region: VT
+time: June 19, 2013 6:30 PM
+archived: false
+registration: false
+---
+
+---
+
+## Web Scraping
+![Garrett Allen](/images/speakers/garrett_allen.jpg)
+A discussion on scraping the web with javascript. We will look at some of the tools available as well as examples for fun and profit.
+
+Find Garrett on [Twitter](https://twitter.com/g0urd).
+
+---
+## Thank you, June sponsors!
+
+- [Dealer.com](http://dealer.com) We serve and strengthen the auto dealer's health, marketing, and operations.
