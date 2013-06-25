@@ -12,6 +12,7 @@ registration: http://guestli.st/169212
 ---
 
 ## Web Scraping
+### [Source Code & Slides](http://garrettallen.com/2013/06/24/web-scraping-javascript.html)
 ![Garrett Allen](/images/speakers/garrett_allen.jpg)
 A discussion on scraping the web with javascript. We will look at some of the tools available as well as examples for fun and profit.
 
@@ -20,6 +21,7 @@ Find Garrett on [Twitter](https://twitter.com/g0urd).
 ---
 
 ## Functional Programming in JS
+### [Source Code](https://github.com/founddrama/burlingtonjs-funjs-talk) & [Slides](http://www.slideshare.net/founddrama/funjs)
 ![Rob Friesel](/images/speakers/rob_friesel.jpg)
 A high-level discussion of the functional programming style and how to apply it in your JavaScript code using Underscore.
 
