@@ -6,7 +6,7 @@ locality: Burlington
 region: VT
 time: September 18, 2013 6:30 PM
 archived: false
-registration: http://guestli.st/178527
+registration: http://www.meetup.com/VTCode/events/136951802/
 ---
 
 ---
