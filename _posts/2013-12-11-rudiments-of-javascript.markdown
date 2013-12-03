@@ -20,6 +20,6 @@ Find Nick on [Twitter](https://twitter.com/teslanick) and [GitHub](https://githu
 ---
 ## Sponsors
 
-Thank you to [Office Square](http://www.officesquaredvt.com/) for hosting this month's meetup!
+Thank you to [Office Squared](http://www.officesquaredvt.com/) for hosting this month's meetup!
 
 Office Squared (o&sup2;) is a professional, coworking space for independent workers, freelancers and telecommuters seeking a collaborative workspace.
