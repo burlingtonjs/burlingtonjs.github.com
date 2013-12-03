@@ -6,7 +6,7 @@ locality: Burlington
 region: VT
 time: December 11, 2013 6:30 PM
 archived: false
-registration: 
+registration: http://www.meetup.com/VTCode/events/153792662/
 ---
 
 ---
