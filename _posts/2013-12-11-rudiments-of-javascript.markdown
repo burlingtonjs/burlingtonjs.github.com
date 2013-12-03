@@ -15,7 +15,7 @@ registration:
 ![Nick Husher](/images/speakers/nick_husher.jpg)
 Learn about the mysterious innards of one of the most important JavaScript constructs: The Object. Nick Husher will be covering everything you wanted to know about prototypal inheritance and object construction in Javascript.
 
-Find Nick on [Twitter](https://twitter.com/teslanick) and [GitHub](https://githue.com/nhusher)
+Find Nick on [Twitter](https://twitter.com/teslanick) and [GitHub](https://github.com/nhusher)
 
 ---
 ## Sponsors
