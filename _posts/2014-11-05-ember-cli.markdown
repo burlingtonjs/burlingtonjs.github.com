@@ -1,0 +1,20 @@
+---
+layout: post
+title: ember-cli
+address: TBD
+locality: Burlington
+region: VT
+time: November 05, 2014 6:30 PM
+archived: false
+registration: TBD
+---
+
+---
+## ember-cli
+
+[add info about pete and the talk]
+
+---
+## Sponsors
+
+[add sponsor info here, would be good to get someone to sponsor!]
